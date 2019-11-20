@@ -1,2 +1,0 @@
-# OOP
-Object Oriented paradigm
